@@ -196,7 +196,8 @@ span{
   margin: 1rem 0 ;
 }
 .sobre-content p{
-  margin: 2rem 0 3rem;
+  margin: .20rem 0 .5rem;
+  align-items: 3rem;
 }
 
 .servicos h2{
@@ -237,7 +238,7 @@ span{
 
 .servicos-box{
   width: 30rem;
-  height: 45rem;
+  height: 50rem;
 }
 
 .servicos-box i{
